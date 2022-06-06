@@ -11,4 +11,5 @@
   * {{ alias pamc:"php artisan make:controller " }} after I write this command in command line i can write pamc instade of php artisan make:controller but you should write the name of your controller
   
   * {{ alias pamm:"php artisan make:model " }}after I write this command in command line i can write pamm instade of php artisan make:model but you should write the name of your model
+  * 
   * {{ alias pammm:"php artisan make:model -m" }}after I write this command in command line i can write pammm instade of php artisan make:model -m but you should write the name of your model
