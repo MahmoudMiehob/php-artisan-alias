@@ -15,5 +15,5 @@
   * {{ alias pamm:"php artisan make:model " }}after I write this command in command line i can write pamm instade of php artisan make:model but you should write the name of your model
   
   * {{ alias pammm:"php artisan make:model -m" }}after I write this command in command line i can write pammm instade of php artisan make:model -m but you should write the name of your model
-  * 
+  
   * {{ alias pammmc:"php artisan make:model -mc"}} after I write this command in command line i can write pammmc instade of php artisan make:model -mc but you should write the name of your model
